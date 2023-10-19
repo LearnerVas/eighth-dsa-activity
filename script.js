@@ -1,0 +1,10 @@
+var favSingers = ["Kanye West", "Ghostemane", "Kamiyada"];
+console.log(favSingers);
+var favNumbers = [18, 12, 11, 60];
+console.log(favNumbers);
+var mixedArr = ["string", ["otherarray"], 123, true];
+console.log(favSingers[0]); 
+console.log(favSingers[1]);
+console.log(favSingers[2]);
+console.log(favNumbers[1]);
+console.log(mixedArr[3]);
